@@ -1,0 +1,7 @@
+target/
+.idea/
+.DS_Store
+*.trace.db
+.vscode/
+.bloop/
+.metals/
